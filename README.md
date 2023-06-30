@@ -3,7 +3,7 @@
  <img  src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Berserk_anime_logo.png">
 </div>
 
-Um projeto simples e minimalista dedicado ao anime Berserk. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com destaque especial para a integração da poderosa biblioteca GSAP (GreenSock Animation Platform) para criar as animações.
+Um projeto simples e minimalista dedicado ao anime Berserk. Este projeto foi desenvolvido utilizando HTML, CSS e JavaScript, com destaque especial para a integração da poderosa biblioteca **GSAP (GreenSock Animation Platform)** para criar as animações.
 
 **Tecnologias usadas**
 <div style="display: inline_block"><br>
