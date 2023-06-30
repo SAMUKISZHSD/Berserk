@@ -1,1 +1,1 @@
-# Site-Berserk
+# Site em homenagem ao anime Berserk
